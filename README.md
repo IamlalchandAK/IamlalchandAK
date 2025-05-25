@@ -25,4 +25,4 @@ I am especially interested in data visualization—transforming raw data into cl
 - English
 - Sourashtra
 
-⭐️ _Thank you for visiting my profile!_
+                                            ⭐️ _Thank you for visiting my profile!_⭐
