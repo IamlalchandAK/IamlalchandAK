@@ -1,19 +1,19 @@
-# Hi there, I'm Lalchand AK 👋
+# Hi there, I'm Lalchand AK 👋😍
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me :
 - 🧑‍🔬 **Data Scientist** with experience in data analysis, modeling, and visualization.
 - 💡 Passionate about uncovering insights from data and making complex data easy to understand.
 - 😊 Always happy and eager to learn new things!
 
-## 🛠️ Skills
+## 🛠️ Skills :
 - **Languages:** Python
 - **Databases:** MySQL
 - **Special Interests:** Data Visualization
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me :
 - [LinkedIn](https://www.linkedin.com/in/lalchand-ak-060187265)
 
-## 🌐 Socials:
+## 💞 Social Media :
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DBJVJyBU)
 - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) 
