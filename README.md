@@ -19,10 +19,11 @@
 ## 📊 Interests
 I am especially interested in data visualization—transforming raw data into clear, impactful visuals that drive decision-making.
 
-## language
-**Tamil**
-**English**
-**Sourashtra**
+## Language
+
+--Tamil
+--English
+--Sourashtra
 ---
 
 ⭐️ _Thank you for visiting my profile!_
