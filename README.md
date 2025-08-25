@@ -12,34 +12,56 @@ Currently pursuing my studies at **Entri Elevate**, I am passionate about buildi
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Core Skills  
 
-**Programming & Databases**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-
-**Data Science & Machine Learning**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-
-**Data Visualization**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-0099cc?style=for-the-badge&logo=plotly&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)  
+### 🔹 Programming & Machine Learning  
+<p align="center">
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://numpy.org/" title="NumPy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://pandas.pydata.org/" title="Pandas">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://scikit-learn.org/" title="Scikit-learn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="70" height="70"/>
+  </a>
+</p>
 
 ---
+
+### 🔹 Visualization & Tools  
+<p align="center">
+  <a href="https://plotly.com/" title="Plotly">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://www.microsoft.com/power-platform/products/power-bi" title="Power BI">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" height="70"/>
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://jupyter.org/" title="Jupyter Notebook">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70" height="70"/>
+  </a>
+  <a href="https://opencv.org/" title="OpenCV">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="70" height="70"/>
+  </a>
+</p>
+
+
+
 
 ## 📌 Featured Projects
 Here are some of my academic and self-learning projects:
@@ -52,17 +74,20 @@ Here are some of my academic and self-learning projects:
 
 
 ---
-
 ## 📊 GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IamlalchandAK&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamlalchandAK&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=IamlalchandAK&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IamlalchandAK&show_icons=true&theme=algolia&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamlalchandAK&layout=compact&theme=algolia&hide_border=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=IamlalchandAK&theme=algolia&hide_border=true)  
 
 ---
 
 ## 📈 Activity Graph
-![Lalchand's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IamlalchandAK&theme=tokyo-night)
+![Lalchand's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IamlalchandAK&theme=github-dark&hide_border=true&area=true)
+
+
 
 ---
 
@@ -80,7 +105,8 @@ Here are some of my academic and self-learning projects:
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalchand-a-k-060187265/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalc7421@gmail.com)  
+[![Email via Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lalc7421@gmail.com)
+ 
 
 ---
 
