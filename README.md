@@ -44,9 +44,12 @@ Currently pursuing my studies at **Entri Elevate**, I am passionate about buildi
 ## 📌 Featured Projects
 Here are some of my academic and self-learning projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamlalchandAK&repo=marketing-campaign-analysis&theme=tokyonight)](https://github.com/IamlalchandAK/marketing-campaign-analysis)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamlalchandAK&repo=predictive-modeling&theme=tokyonight)](https://github.com/IamlalchandAK/predictive-modeling)  
-[![Readme Card](https://github.com/IamlalchandAK/-Power-BI-Loan-Performance-Borrower-Analysis)  
+[![Power BI Project](https://github-readme-stats.vercel.app/api/pin/?username=IamlalchandAK&repo=-Power-BI-Loan-Performance-Borrower-Analysis&theme=react)](https://github.com/IamlalchandAK/-Power-BI-Loan-Performance-Borrower-Analysis)  
+
+[![MySQL Project](https://github-readme-stats.vercel.app/api/pin/?username=IamlalchandAK&repo=E-Commerce-Customer-Churn-Analysis&theme=react)](https://github.com/IamlalchandAK/E-Commerce-Customer-Churn-Analysis)  
+
+[![Python Project](https://github-readme-stats.vercel.app/api/pin/?username=IamlalchandAK&repo=Marketing-Campaign-Performance-Insights&theme=react)](https://github.com/IamlalchandAK/Marketing-Campaign-Performance-Insights)  
+
 
 ---
 
