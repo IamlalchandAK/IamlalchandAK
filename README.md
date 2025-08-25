@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 I am a **Data Science and Machine Learning enthusiast** with a strong foundation in Python, SQL, and applied statistics.  
-Currently pursuing my studies at **Thiagarajar College of Engineering**, I am passionate about building **data-driven solutions** and applying ML techniques to solve real-world problems.  
+Currently pursuing my studies at **Entri Elevate**, I am passionate about building **data-driven solutions** and applying ML techniques to solve real-world problems.  
 
 ---
 
