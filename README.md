@@ -46,7 +46,7 @@ Here are some of my academic and self-learning projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamlalchandAK&repo=marketing-campaign-analysis&theme=tokyonight)](https://github.com/IamlalchandAK/marketing-campaign-analysis)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamlalchandAK&repo=predictive-modeling&theme=tokyonight)](https://github.com/IamlalchandAK/predictive-modeling)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamlalchandAK&repo=ml-practice&theme=tokyonight)](https://github.com/IamlalchandAK/ml-practice)  
+[![Readme Card](https://github.com/IamlalchandAK/-Power-BI-Loan-Performance-Borrower-Analysis)  
 
 ---
 
