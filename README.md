@@ -44,8 +44,8 @@ I enjoy transforming **raw data into meaningful insights**, building dashboards,
 
 ## 📌 Featured Projects  
 
-### ⭐ Main Project – Machine Learning  
-✈️ **Flight Fare Prediction using Machine Learning**  
+#### ⭐ Main Project – Machine Learning  
+### ✈️ **Flight Fare Prediction using Machine Learning**  
 
 📊 Built a Machine Learning model to predict flight ticket prices based on  
 features such as airline, source, destination, journey date, duration, and stops.
@@ -95,9 +95,9 @@ features such as airline, source, destination, journey date, duration, and stops
 ---
 
 ## 🌱 Currently Learning  
-- Deep Learning & Computer Vision  
+- AI & Deep Learning 
 - Data Engineering & MLOps  
-- Advanced Power BI & Business Analytics  
+- NLP & Business Analytics  
 
 ---
 
@@ -105,6 +105,12 @@ features such as airline, source, destination, journey date, duration, and stops
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalchand-a-k-060187265/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalc7421@gmail.com)
+
+---
+
+
+📄 **Resume:**  
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://github.com/IamlalchandAK/resume/blob/main/LALCHAND_AK_RESUME..pdf)
 
 ---
 
